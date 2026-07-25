@@ -1,0 +1,2 @@
+#define CARD_CATALOG 101
+CARD_CATALOG RCDATA "cards_api_all.txt"
